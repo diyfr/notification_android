@@ -5,9 +5,9 @@
 
 
 /**
-	$reg_ids : array Of RegId with id User as Key
-	$message : array
-	$debug   : show debug trace
+*	$reg_ids : array Of RegId with id User as Key
+*	$message : array
+*	$debug   : show debug trace
 */
 function sendMessages($reg_ids,$message,$debug){
 
