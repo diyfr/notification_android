@@ -1,7 +1,7 @@
 
 create database gcm_db;
-grant all on gcm_db.* to 'gcm_admin'@'localhost' identified by '{PASSWORD}';
-create user gcm_admin;
+grant all on gcm_db.* to 'gcm_dbuser'@'localhost' identified by '{PASSWORD}';
+create user gcm_dbuser;
 
 CREATE TABLE IF NOT EXISTS `gcm_users` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
