@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlerTerMoi</string>
+    <string name="action_account">Compte</string>
+    <string name="action_serveur">Paramètres GCM</string>
+    <string name="action_about">A Propos</string>
+    <string name="sender_id">Sender ID GCM (code projet)</string>
+    <string name="ws_url">URL de votre serveur(???/register.php)</string>
+    <string name="valid_sender_id">Valider votre Sender ID</string>
+    <string name="valid_ws_url">Terminer le paramétrage</string>
+    <string name="title_activity_apropos">AProposActivity</string>
+    <string name="title_email">Sélectionnez votre compte</string>
+    <string name="mismatchaccount">Compte non défini!</string>
+    <string name="mismatchsenderid">Sender ID non défini!</string>
+    <string name="mismatchurlws">Pas d\'Url pour votre Webservice!</string>
+    <string name="crash">La correction de cette anomalie fera prochainement l\'objet d\'une nouvelle version</string>
+    <string name="description_image_liste"></string>
+    <string name="title">Title Here</string>
+    <string name="subtitle">SubTitle Here</string>
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="receipt">Emis le 22/01 à 11:00:00 - Reçu le 22/01 à 11:00:01</string>
+    <string name="emailsample">monemail.mail@gmail.com</string>
+
+</resources>
